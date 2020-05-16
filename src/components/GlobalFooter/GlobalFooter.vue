@@ -1,18 +1,18 @@
 <template>
   <div class="footer">
     <div class="links">
+      <a href="https://ant.design/" target="_blank">Ant Design</a>
+      <a href="https://vue.ant.design/" target="_blank">Vue Antd</a>
       <a
-        href="https://pro.loacg.com/"
-        target="_blank"
-      >Pro 首页</a>
-      <a
-        href="https://github.com/sendya/ant-design-pro-vue"
+        href="https://github.com/wongqingbin/ant-design-vue-pro"
         target="_blank"
       >
         <a-icon type="github" />
       </a>
-      <a href="https://ant.design/" target="_blank">Ant Design</a>
-      <a href="https://vue.ant.design/" target="_blank">Vue Antd</a>
+      <a
+        href="https://wongqingbin.github.io/"
+        target="_blank"
+      >博客</a>
     </div>
     <div class="copyright">
       Copyright
