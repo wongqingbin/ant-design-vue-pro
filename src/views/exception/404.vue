@@ -4,7 +4,6 @@
 
 <script>
 import { ExceptionPage } from '@/components'
-
 export default {
   components: {
     ExceptionPage
@@ -13,5 +12,4 @@ export default {
 </script>
 
 <style scoped>
-
 </style>

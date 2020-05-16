@@ -5,10 +5,10 @@ const info = (options) => {
   console.log('options', options)
   const userInfo = {
     'id': '4291d7da9005377ec9aec4a71ea837f',
-    'name': '天野远子',
+    'name': 'Frieza',
     'username': 'admin',
     'password': '',
-    'avatar': '/avatar2.jpg',
+    'avatar': '/myhead.png',
     'status': 1,
     'telephone': '',
     'lastLoginIp': '27.154.74.117',
@@ -370,6 +370,7 @@ const info = (options) => {
   return builder(userInfo)
 }
 
+// 动态菜单生成模拟数据
 const userNav = (options) => {
   const nav = [
     // dashboard

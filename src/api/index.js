@@ -1,12 +1,12 @@
 const api = {
   Login: '/auth/login',
   Logout: '/auth/logout',
-  ForgePassword: '/auth/forge-password',
-  Register: '/auth/register',
+  // ForgePassword: '/auth/forge-password',
+  // Register: '/auth/register',
   twoStepCode: '/auth/2step-code',
-  SendSms: '/account/sms',
-  SendSmsErr: '/account/sms_err',
+  SendSms: '/account/sms', // 短信验证码
+  SendSmsErr: '/account/sms_err'
   // get my info
-  UserInfo: '/user/info'
+  // UserInfo: '/user/info'
 }
 export default api
